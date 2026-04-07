@@ -6,3 +6,8 @@
     - Ce Chen | 9007166
     - Zhuoran Zhang | 9048508
 
+## GitHub Link
+https://github.com/chence/ProbabilisticLanguageModels.git
+
+## Main Notebook
+- ProbabilisticLanguageModels.ipynb
